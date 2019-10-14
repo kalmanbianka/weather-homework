@@ -1,0 +1,27 @@
+[
+    {
+        "city": "Budapest",
+        "averageDailyTemp": 18,
+        "weather": []
+    },
+    {
+        "city": "Kecskemét",
+        "averageDailyTemp": 20,
+        "weather": []
+    },
+    {
+        "city": "Szeged",
+        "averageDailyTemp": 18,
+        "weather": []
+    },
+    {
+        "city": "Budapest",
+        "averageDailyTemp": 18,
+        "weather": []
+    },
+    {
+        "city": "Budapest",
+        "averageDailyTemp": 18,
+        "weather": []
+    }
+]

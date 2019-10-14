@@ -1,0 +1,9 @@
+<div class="weather-component">
+    <div class="city">City: {{city}} </div>
+    <div class="averageDailyTemp">Average daily temperature: {{averageDailyTemp}} </div>
+    <div class="weather">
+        <ul>
+            <li *ngFor= "let weather of changes"> Weather: {{weather}} </li>
+        </ul>
+    </div>
+</div>
